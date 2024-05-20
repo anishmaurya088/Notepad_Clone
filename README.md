@@ -74,4 +74,13 @@ Please ensure your code adheres to our coding standards and includes appropriate
 
 ---
 
-![Screenshot of Notepad Clone](icons/scr.png)
+# Screenshot of Notepad Clone
+ **Fisrt page showing like this-**
+ 
+![Scr1](https://github.com/anishmaurya088/Notepad_Clone/assets/126401059/b89608ac-6367-4f76-a97b-dc41e40fbc39)
+
+**About section looks like this.**
+
+![About](https://github.com/anishmaurya088/Notepad_Clone/assets/126401059/dab89f18-17e0-4380-92a0-eee73cad3d49)
+
+
