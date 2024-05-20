@@ -74,4 +74,4 @@ Please ensure your code adheres to our coding standards and includes appropriate
 
 ---
 
-Feel free to customize this README to better fit your project's specifics and add any additional details as needed.
+![Screenshot of Notepad Clone](icons/scr.png)
